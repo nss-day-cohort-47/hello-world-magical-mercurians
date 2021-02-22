@@ -1,0 +1,37 @@
+body {
+    background-color: #ffffff;
+	margin:0;
+	text-align: center;
+}
+
+
+nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 1em;
+	overflow: hidden;
+	background-color:#FDC59E;
+  }
+  
+nav li {
+	display: inline;
+	margin: 0 1em;
+  }
+
+footer {
+    background-color: #FDC59E;
+    color: white;
+	text-align: center;
+	padding: 1em;
+	margin-top: 20%;
+}
+
+.bio{
+
+    background-color: #94D7E1;
+	text-align: center;
+	width: 20%;
+  height: 60%;
+  margin-left: 40%;
+  margin-top: 15%;
+}
