@@ -75,31 +75,3 @@ footer {
 /* EGYPT CODE */
 
 
-/* AUSTRALIA CODE */
-
-
-.info_australia {
-	display: flex;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
-}
-
-.info_australia_city {
-	list-style-type: none;
-	margin: 0;
-	padding: 0;
-}
-
-.info_australia_landmark {
-	list-style-type: none;
-	margin: 0;
-	padding: 0;
-}
-
-.info_australia_people {
-	list-style-type: none;
-	margin: 0;
-	padding: 0;
-}
-
-/* AUSTRAlIA CODE */
