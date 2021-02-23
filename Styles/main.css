@@ -40,12 +40,17 @@ footer {
   margin-top: 15%;
 }
 
+
+
+
 /* EGYPT CODE */
 
 .egypt_pictures {
 	height: auto;
 	width: 50%;
 }
+
+
 
 .info_egypt_section {
 	display: flex;
@@ -54,10 +59,15 @@ footer {
 	margin-top: 50px;
 }
 
+
 .info_egypt_card {
 	width: 30%;
 	padding-bottom: 15px;
 	list-style-type: none;
+}
+
+.info_greece_people {
+	background-color: #ECD39F;
 }
 
 .info_egypt_city {
@@ -72,39 +82,3 @@ footer {
 	background-color: #ECD39F;
 }
 
-/* EGYPT CODE */
-
-/* BEGGING GREECE CODE */
-
-
-.greece_pictures {
-	height: auto;
-	width: 50%;
-}
-
-.info_greece_section {
-	display: flex;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
-	margin-top: 50px;
-}
-
-.info_greece_card {
-	width: 30%;
-	padding-bottom: 15px;
-	list-style-type: none;
-}
-
-.info_greece_city {
-	background-color: #94D7E1;
-}
-
-.info_greece_landmark {
-	background-color: #D4E3E3;
-}
-
-.info_greece_people {
-	background-color: #ECD39F;
-}
-
-/* END GREECE CODE */
