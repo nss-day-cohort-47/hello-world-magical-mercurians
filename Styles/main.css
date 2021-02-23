@@ -47,6 +47,7 @@ img {
 	background-color: #94D7E1;
 	width: 30%;
 	margin: 0;
+	padding: 0, 0, 15;
 }
 
 .japan_info_landmark {
@@ -54,10 +55,12 @@ img {
 	background-color: #D4E3E3;
 	width: 30%;
 	margin: 0;
+	padding: 0, 0, 15;
 }
 
 .japan_info_people {
 	width: 30%;
+	padding: 0, 0, 15;
 	list-style-type: none;
 	background-color: #FDC59E 
 
