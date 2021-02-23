@@ -25,7 +25,6 @@ footer {
 	margin-top: 20%;
 }
 
-
 .bio{
 
     background-color: #94D7E1;
@@ -35,3 +34,35 @@ footer {
   margin-left: 40%;
   margin-top: 15%;
 }
+
+/* EGYPT CODE */
+.egypt_pictures {
+	height: auto;
+	width: 10px;
+}
+
+.info_egypt {
+	display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.info_egypt_city {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.info_egypt_landmark {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.info_egypt_people {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+/* EGYPT CODE */
