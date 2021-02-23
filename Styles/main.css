@@ -36,21 +36,23 @@ footer {
 }
 
 /* EGYPT CODE */
+
 .egypt_pictures {
 	height: auto;
-	width: 60%;
+	width: 50%;
 }
 
 .info_egypt_section {
 	display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
+	margin-top: 50px;
 }
 
 .info_egypt_card {
-	padding: 5px;
+	width: 30%;
+	padding-bottom: 15px;
 	list-style-type: none;
-	margin: 0;
 }
 
 .info_egypt_city {
