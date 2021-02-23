@@ -1,8 +1,12 @@
-/* GREECE CODE */
+h1 {
+	font-family: 'Montserrat', sans-serif;
+}
+
 body {
     background-color: #ffffff;
 	margin:0;
 	text-align: center;
+	font-family: 'Roboto', sans-serif;
 }
 
 nav ul {
@@ -36,6 +40,43 @@ footer {
   margin-top: 15%;
 }
 
+/* EGYPT CODE */
+
+.egypt_pictures {
+	height: auto;
+	width: 50%;
+}
+
+.info_egypt_section {
+	display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+	margin-top: 50px;
+}
+
+.info_egypt_card {
+	width: 30%;
+	padding-bottom: 15px;
+	list-style-type: none;
+}
+
+.info_egypt_city {
+	background-color: #94D7E1;
+}
+
+.info_egypt_landmark {
+	background-color: #D4E3E3;
+}
+
+.info_egypt_people {
+	background-color: #ECD39F;
+}
+
+/* EGYPT CODE */
+
+/* BEGGING GREECE CODE */
+
+
 .greece_pictures {
 	height: auto;
 	width: 50%;
@@ -66,4 +107,4 @@ footer {
 	background-color: #ECD39F;
 }
 
-/* GREECE CODE */
+/* END GREECE CODE */
