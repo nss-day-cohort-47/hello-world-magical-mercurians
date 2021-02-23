@@ -1,9 +1,9 @@
+/* GREECE CODE */
 body {
     background-color: #ffffff;
 	margin:0;
 	text-align: center;
 }
-
 
 nav ul {
 	list-style-type: none;
@@ -35,3 +35,35 @@ footer {
   margin-left: 40%;
   margin-top: 15%;
 }
+
+.greece_pictures {
+	height: auto;
+	width: 50%;
+}
+
+.info_greece_section {
+	display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+	margin-top: 50px;
+}
+
+.info_greece_card {
+	width: 30%;
+	padding-bottom: 15px;
+	list-style-type: none;
+}
+
+.info_greece_city {
+	background-color: #94D7E1;
+}
+
+.info_greece_landmark {
+	background-color: #D4E3E3;
+}
+
+.info_greece_people {
+	background-color: #ECD39F;
+}
+
+/* GREECE CODE */
