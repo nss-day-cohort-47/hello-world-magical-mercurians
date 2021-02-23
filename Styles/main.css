@@ -41,30 +41,27 @@ footer {
 	width: 60%;
 }
 
-.info_egypt {
+.info_egypt_section {
 	display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
 }
 
-.info_egypt_city {
+.info_egypt_card {
+	padding: 5px;
 	list-style-type: none;
 	margin: 0;
-	padding: 0;
+}
+
+.info_egypt_city {
 	background-color: #94D7E1;
 }
 
 .info_egypt_landmark {
-	list-style-type: none;
-	margin: 0;
-	padding: 0;
 	background-color: #D4E3E3;
 }
 
 .info_egypt_people {
-	list-style-type: none;
-	margin: 0;
-	padding: 0;
 	background-color: #ECD39F;
 }
 
