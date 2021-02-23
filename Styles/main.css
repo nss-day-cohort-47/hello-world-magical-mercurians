@@ -30,8 +30,32 @@ footer {
 
     background-color: #94D7E1;
 	text-align: center;
-	width: 20%;
-  height: 60%;
-  margin-left: 40%;
-  margin-top: 15%;
+	width: 30%;
+   	height: 60%;
+  	margin-left: 40%;
+  	margin-top: 15%;
+}
+
+.city {
+	flex-direction: column;
+	justify-content: space-evenly;
+	background-color: #94D7E1;
+	display: flex;
+	margin: 50 px;
+}
+
+.landmark {
+	flex-direction: column;
+	justify-content: space-evenly;
+	background-color: #D4E3E3;
+	display: flex;
+	margin: 50 px;
+}
+
+.people {
+	margin: 50 px;
+	flex-direction: column;
+	justify-content: space-evenly;
+	display: flex;
+	background-color: #FDC59E 
 }
