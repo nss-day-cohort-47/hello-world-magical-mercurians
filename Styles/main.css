@@ -36,6 +36,10 @@ footer {
 }
 
 /* EGYPT CODE */
+.egypt_pictures {
+	height: auto;
+	width: 60%;
+}
 
 .info_egypt {
 	display: flex;
@@ -47,18 +51,21 @@ footer {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
+	background-color: #94D7E1;
 }
 
 .info_egypt_landmark {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
+	background-color: #D4E3E3;
 }
 
 .info_egypt_people {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
+	background-color: #ECD39F;
 }
 
 /* EGYPT CODE */
