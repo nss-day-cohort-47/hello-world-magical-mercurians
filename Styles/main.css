@@ -26,6 +26,12 @@ footer {
 	margin-top: 20%;
 }
 
+.info {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+}
+
 .bio{
 
     background-color: #94D7E1;
@@ -37,25 +43,19 @@ footer {
 }
 
 .city {
-	flex-direction: column;
-	justify-content: space-evenly;
+	list-style-type: none;
 	background-color: #94D7E1;
-	display: flex;
-	margin: 50 px;
+	margin: 0;
 }
 
 .landmark {
-	flex-direction: column;
-	justify-content: space-evenly;
+	list-style-type: none;
 	background-color: #D4E3E3;
-	display: flex;
-	margin: 50 px;
+	margin: 0;
 }
 
 .people {
-	margin: 50 px;
-	flex-direction: column;
-	justify-content: space-evenly;
-	display: flex;
+	list-style-type: none;
 	background-color: #FDC59E 
+	margin: 0;
 }
