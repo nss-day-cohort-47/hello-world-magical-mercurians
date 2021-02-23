@@ -35,8 +35,41 @@ footer {
     background-color: #94D7E1;
 	text-align: center;
 	width: 20%;
-  height: 60%;
-  margin-left: 40%;
-  margin-top: 15%;
+  	height: 60%;
+ 	 margin-left: 40%;
+  	margin-top: 15%;
 }
 
+/* EGYPT CODE */
+
+.country_picture {
+	height: auto;
+	width: 50%;
+}
+
+.info_section {
+	display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+	margin-top: 50px;
+}
+
+.info_card {
+	width: 30%;
+	padding-bottom: 15px;
+	list-style-type: none;
+}
+
+.info_city {
+	background-color: #94D7E1;
+}
+
+.info_landmark {
+	background-color: #D4E3E3;
+}
+
+.info_people {
+	background-color: #ECD39F;
+}
+
+/* EGYPT CODE */
