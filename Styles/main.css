@@ -37,7 +37,7 @@ footer {
 	width: 20%;
   	height: 60%;
  	 margin-left: 40%;
-  	margin-top: 15%;
+  	margin-top: 10%;
 }
 
 /* EGYPT CODE */
@@ -73,3 +73,19 @@ footer {
 }
 
 /* EGYPT CODE */
+
+/* greece picture */
+
+.greece_picture{
+	height: 50%;
+	width: 50%;
+}
+
+/* homepage picture */
+
+.pictures{
+height: 60%;
+width: 60%;
+margin-left: 20%;
+margin-top: 5%;
+}
