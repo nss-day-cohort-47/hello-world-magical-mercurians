@@ -5,7 +5,6 @@ body {
 	text-align: center;
 }
 
-
 nav ul {
 	list-style-type: none;
 	margin: 0;
@@ -42,37 +41,35 @@ img {
 	height: auto;
 }
 
-.japan_info_city {
+h1 {
+	font-family: 'Montserrat', sans-serif;
+}
+
+.info_section {
+	display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+	margin-top: 50px;
+}
+
+.info_card {
+	width: 30%;
+	padding-bottom: 15px;
 	list-style-type: none;
+}
+
+.info_city {
 	background-color: #94D7E1;
-	width: 30%;
-	margin: 0;
-	padding: 0, 0, 15;
 }
 
-.japan_info_landmark {
-	list-style-type: none;
+.info_landmark {
 	background-color: #D4E3E3;
-	width: 30%;
-	margin: 0;
-	padding: 0, 0, 15;
 }
 
-.japan_info_people {
-	width: 30%;
-	padding: 0, 0, 15;
-	list-style-type: none;
-	background-color: #FDC59E 
-
-}	
+.info_people {
+	background-color: #ECD39F;
+}
 
 ul {
 	list-style-type: none;
-	text-align: center;
-}
-
-.japan_info {
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: space-evenly;
 }
