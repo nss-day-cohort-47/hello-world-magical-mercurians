@@ -37,7 +37,11 @@ footer {
 	width: 20%;
   	height: 60%;
  	 margin-left: 40%;
+<<<<<<< HEAD
   	margin-top: 15%;
+=======
+  	margin-top: 10%;
+>>>>>>> main
 }
 
 /* EGYPT CODE */
@@ -72,4 +76,24 @@ footer {
 	background-color: #ECD39F;
 }
 
+<<<<<<< HEAD
 /* EGYPT CODE */
+=======
+/* EGYPT CODE */
+
+/* greece picture */
+
+.greece_picture{
+	height: 50%;
+	width: 50%;
+}
+
+/* homepage picture */
+
+.pictures{
+height: 60%;
+width: 60%;
+margin-left: 20%;
+margin-top: 5%;
+}
+>>>>>>> main
