@@ -1,7 +1,12 @@
+h1 {
+	font-family: 'Montserrat', sans-serif;
+}
+
 body {
     background-color: #ffffff;
 	margin:0;
 	text-align: center;
+	font-family: 'Roboto', sans-serif;
 }
 
 nav ul {
@@ -30,41 +35,57 @@ footer {
     background-color: #94D7E1;
 	text-align: center;
 	width: 20%;
-  height: 60%;
-  margin-left: 40%;
-  margin-top: 15%;
+  	height: 60%;
+ 	 margin-left: 40%;
+  	margin-top: 10%;
 }
 
 /* EGYPT CODE */
 
-.egypt_pictures {
+.country_picture {
 	height: auto;
 	width: 50%;
 }
 
-.info_egypt_section {
+.info_section {
 	display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
 	margin-top: 50px;
 }
 
-.info_egypt_card {
+.info_card {
 	width: 30%;
 	padding-bottom: 15px;
 	list-style-type: none;
 }
 
-.info_egypt_city {
+.info_city {
 	background-color: #94D7E1;
 }
 
-.info_egypt_landmark {
+.info_landmark {
 	background-color: #D4E3E3;
 }
 
-.info_egypt_people {
+.info_people {
 	background-color: #ECD39F;
 }
 
 /* EGYPT CODE */
+
+/* greece picture */
+
+.greece_picture{
+	height: 50%;
+	width: 50%;
+}
+
+/* homepage picture */
+
+.pictures{
+height: 60%;
+width: 60%;
+margin-left: 20%;
+margin-top: 5%;
+}
