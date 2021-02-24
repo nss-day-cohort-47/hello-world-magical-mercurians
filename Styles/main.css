@@ -1,9 +1,6 @@
-<<<<<<< HEAD
-=======
 h1 {
 	font-family: 'Montserrat', sans-serif;
 }
->>>>>>> main
 
 body {
     background-color: #ffffff;
@@ -37,33 +34,15 @@ footer {
 
     background-color: #94D7E1;
 	text-align: center;
-<<<<<<< HEAD
-	width: 30%;
-   	height: 60%;
-  	margin-left: 40%;
-  	margin-top: 15%;
-}
-
-img {
-	width: 50%;
-	height: auto;
-}
-
-h1 {
-	font-family: 'Montserrat', sans-serif;
-=======
 	width: 20%;
   	height: 60%;
- 	 margin-left: 40%;
+ 	margin-left: 40%;
   	margin-top: 10%;
 }
-
-/* EGYPT CODE */
 
 .country_picture {
 	height: auto;
 	width: 50%;
->>>>>>> main
 }
 
 .info_section {
@@ -91,13 +70,6 @@ h1 {
 	background-color: #ECD39F;
 }
 
-<<<<<<< HEAD
-ul {
-	list-style-type: none;
-}
-=======
-/* EGYPT CODE */
-
 /* greece picture */
 
 .greece_picture{
@@ -113,4 +85,3 @@ width: 60%;
 margin-left: 20%;
 margin-top: 5%;
 }
->>>>>>> main
